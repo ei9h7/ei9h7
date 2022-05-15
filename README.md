@@ -8,6 +8,7 @@ My current side-project is a [NFT lottery app](https://github.com/ei9h7/nft-jeep
 
 ### Technologies
 <img src="https://img.shields.io/badge/Python-282C34?logo=Python&style=for-the-badge&logoColor=3776AB&link=https://github.com/ei9h7?tab=repositories&q=python&type=&language=&sort=" alt="Python logo" title="Python" height="28" />  
+<img src="https://img.shields.io/badge/CSharp-282C34?logo=CSharp&style=for-the-badge&logoColor=3776AB&link=https://github.com/ei9h7?tab=repositories&q=csharp&type=&language=&sort=" alt="CSharp logo" title="CSharp" height="28" />  
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&style=for-the-badge&link=https://github.com/ei9h7?tab=repositories&q=typescript&type=&language=&sort=" alt="TypeScript logo" title="TypeScript" height="28" />  
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&style=for-the-badge&link=https://github.com/ei9h7?tab=repositories&q=&type=&language=javascript&sort=" alt="JavaScript logo" title="JavaScript" height="28" />   
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=nodedotjs&style=for-the-badge&link=https://github.com/ei9h7?tab=repositories&q=&type=&language=javascript&sort=" alt="Node.js logo" title="Node.js" height="28" />  
@@ -16,6 +17,10 @@ My current side-project is a [NFT lottery app](https://github.com/ei9h7/nft-jeep
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=nextdotjs&style=for-the-badge&link=https://github.com/ei9h7?tab=repositories&q=next&type=&language=&sort=" alt="Next.js logo" title="Next.js" height="28" />  
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&style=for-the-badge&logoColor=white&link=https://github.com/ei9h7?tab=repositories&q=mysql&type=&language=&sort=" alt="MySQL logo" title="MySQL" height="28" />  
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&style=for-the-badge&link=https://github.com/ei9h7?tab=repositories&q=docker&type=&language=&sort=" alt="Docker logo" title="Docker" height="28" /> 
+<img src="https://img.shields.io/badge/PHP-282C34?logo=php&style=for-the-badge&link=https://github.com/ei9h7?tab=repositories&q=php&type=&language=&sort=" alt="PHP logo" title="PHP" height="28" /> 
+<img src="https://img.shields.io/badge/SCSS-282C34?logo=scss&style=for-the-badge&link=https://github.com/ei9h7?tab=repositories&q=scss&type=&language=&sort=" alt="SCSS logo" title="SCSS" height="28" /> 
+<img src="https://img.shields.io/badge/HTML-282C34?logo=html&style=for-the-badge&link=https://github.com/ei9h7?tab=repositories&q=html&type=&language=&sort=" alt="HTML logo" title="HTML" height="28" /> 
+<img src="https://img.shields.io/badge/Go-282C34?logo=go&style=for-the-badge&link=https://github.com/ei9h7?tab=repositories&q=go&type=&language=&sort=" alt="Go logo" title="Go" height="28" /> 
 <img src="https://img.shields.io/badge/Ansible-282C34?logo=ansible&style=for-the-badge&link=https://github.com/ei9h7?tab=repositories&q=ansible&type=&language=&sort=" alt="Ansible logo" title="Ansible" height="28" /> 
 <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&style=for-the-badge&logoColor=white&link=https://github.com/ei9h7?tab=repositories&q=linux&type=&language=&sort=" alt="Linux logo" title="Linux" height="28" /> 
 <img src="https://img.shields.io/badge/macOS-282C34?logo=apple&style=for-the-badge&logoColor=white&link=https://github.com/ei9h7?tab=repositories&q=macos&type=&language=&sort=" alt="Apple logo" title="macOS" height="28" /> 
